@@ -1,0 +1,9 @@
+{
+  "name": "al-sakhra-educational-centers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "منظومة إدارة مجموعة مراكز الصخرة التعليمية المتكاملة ERP",
+  "scripts": {
+    "build": "echo 'Al-Sakhra ERP Static Build Ready'"
+  }
+}
